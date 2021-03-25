@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{740A1912-69BA-40EC-9BC2-A7B6BB14E9CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Sorting\Sorting.csproj", "{D8661479-FCAB-4053-9552-8797B34050C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{740A1912-69BA-40EC-9BC2-A7B6BB14E9CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{740A1912-69BA-40EC-9BC2-A7B6BB14E9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{740A1912-69BA-40EC-9BC2-A7B6BB14E9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{740A1912-69BA-40EC-9BC2-A7B6BB14E9CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8661479-FCAB-4053-9552-8797B34050C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8661479-FCAB-4053-9552-8797B34050C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8661479-FCAB-4053-9552-8797B34050C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8661479-FCAB-4053-9552-8797B34050C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4C41D1E-4483-48A3-B9A1-845332C532F1}
+	EndGlobalSection
+EndGlobal
